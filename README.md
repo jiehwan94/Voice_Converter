@@ -1,4 +1,4 @@
-# Voice_Text_Converter
+# Extraing Key Info from Voice Data
 
 We are often put into a mundane task of inputting information that can be automated. 
 
