@@ -2,7 +2,7 @@
 
 We are often put into a mundane task of entering information that can be automated. 
 
-In this video, we will look at how a 3PL company can use voice data to automatically extract key information and create dashboard with visualizations and a navigation map.
+In this video, we will look at how a 3PL company can use voice data to automatically extract key information and create a dashboard with visualizations and a navigation map.
 
 More info can be found at: https://www.youtube.com/watch?v=SEkNt6sol84
 
